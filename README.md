@@ -1,3 +1,3 @@
-# PersonalWebSite
+# Personal Web Site
 
-URI: [Osti Katriel](https://ostikatriel.github.io/PersonalWebSite/) 
+URI: [https://ostikatriel.github.io/personal-web-site/](https://ostikatriel.github.io/personal-web-site/)
